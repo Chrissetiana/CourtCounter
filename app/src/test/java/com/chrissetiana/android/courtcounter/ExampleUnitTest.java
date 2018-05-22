@@ -1,4 +1,4 @@
-package com.example.android.courtcounter;
+package com.chrissetiana.android.courtcounter;
 
 import org.junit.Test;
 
