@@ -1,4 +1,4 @@
-package com.chrissetiana.android.courtcounter;
+package com.chrissetiana.courtcounter;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

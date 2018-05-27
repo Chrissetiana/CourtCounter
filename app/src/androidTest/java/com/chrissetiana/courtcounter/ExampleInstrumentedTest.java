@@ -1,4 +1,4 @@
-package com.chrissetiana.android.courtcounter;
+package com.chrissetiana.courtcounter;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
